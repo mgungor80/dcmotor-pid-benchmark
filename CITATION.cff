@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this benchmark or code, please cite the article below (update the reference once it is published)."
+title: "A well-posed DC motor PID tuning benchmark: code and data"
+type: software
+authors:
+  - family-names: "Güngör"
+    given-names: "Mustafa"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+license: MIT
+version: "1.0.0"
+date-released: "2026-10-12"
+preferred-citation:
+  type: article
+  title: "A well-posed formulation of the DC motor PID tuning benchmark: Saturation, robustness, and noise constraints change the ranking of controllers and optimizers"
+  authors:
+    - family-names: "Güngör"
+      given-names: "Mustafa"
+  journal: "International Journal of Control"
+  status: submitted
+  year: 2026

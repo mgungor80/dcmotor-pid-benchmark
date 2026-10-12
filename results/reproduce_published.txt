@@ -1,0 +1,10 @@
+ideal derivative
+  KOA (Saravanan 2025)           tr 0.0369 s  ts 0.1305 s  OS 0.00 %  ITAE(1 s) 0.002288  ITAE(0.5 s) 0.001542
+  RPOA (Saravanan 2025)          tr 0.0418 s  ts 0.0929 s  OS 0.00 %  ITAE(1 s) 0.001429  ITAE(0.5 s) 0.001077
+  SFS (Khanam and Parmar 2017)   tr 0.5436 s  ts 1.0000 s  OS 0.00 %  ITAE(1 s) 0.059664  ITAE(0.5 s) 0.039132
+  LHHO (Ayinla 2024)             tr 0.0463 s  ts 0.0794 s  OS 0.29 %  ITAE(1 s) 0.000658  ITAE(0.5 s) 0.000579
+derivative filter N = 100
+  KOA (Saravanan 2025)           tr 0.0236 s  ts 0.1287 s  OS 5.94 %  ITAE(1 s) 0.002368  ITAE(0.5 s) 0.001549
+  RPOA (Saravanan 2025)          tr 0.0269 s  ts 0.0695 s  OS 4.44 %  ITAE(1 s) 0.001528  ITAE(0.5 s) 0.001098
+  SFS (Khanam and Parmar 2017)   tr 0.5300 s  ts 1.0000 s  OS 0.00 %  ITAE(1 s) 0.058993  ITAE(0.5 s) 0.038514
+  LHHO (Ayinla 2024)             tr 0.0307 s  ts 0.0845 s  OS 4.14 %  ITAE(1 s) 0.000426  ITAE(0.5 s) 0.000402

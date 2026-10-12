@@ -1,0 +1,18 @@
+label,method,source,quoted_in,Kp,Ki,Kd,box_upper,reported_cost,note
+LHHO,Leader-based Harris hawks optimization,"Ayinla et al., Franklin Open 6 (2024) 100058, doi:10.1016/j.fraope.2023.100058",,19.99999,5.437263,3.359391,20,0.000401,
+HHO-q,Harris hawks optimization,earlier work,"Ayinla et al. (2024), comparison table",19.9994,5.4036,3.3582,20,0.003993,gains quoted from earlier work
+PSO-q,Particle swarm optimization,earlier work,"Ayinla et al. (2024), comparison table",19.6586,4.8951,3.2216,20,0.003265,gains quoted from earlier work
+IGWO-q,Improved grey wolf optimizer,earlier work,"Ayinla et al. (2024), comparison table",19.66287869,5.427335562,3.184861028,20,0.003214,gains quoted from earlier work
+ASO-q,Atom search optimization,earlier work,"Ayinla et al. (2024), comparison table",18.74551157,12.33363059,13.83286123,20,0.003422,gains quoted from earlier work
+BKA-ANN,Black kite algorithm / neural network,"Arikusu, Biomimetics 11 (2026) 242, doi:10.3390/biomimetics11040242",,24.9369,2.9429,4.9641,,,
+ASO,Atom search optimization,"Hekimoglu, IEEE Access 7 (2019) 38100-38114, doi:10.1109/ACCESS.2019.2905961",,11.9437,2.0521,2.4358,,,
+GWO,Grey wolf optimizer,"Agarwal et al., Microsystem Technologies 24 (2018) 4997-5006, doi:10.1007/s00542-018-3920-4",,6.8984,0.5626,0.9293,,,
+SCA,Sine cosine algorithm,"Agarwal et al., Wulfenia Journal 24 (2017) 77-95",,4.5012,0.5260,0.5302,,,
+SFS,Stochastic fractal search,"Khanam and Parmar, Proc. IEEE UPCON (2017) 256-261, doi:10.1109/upcon.2017.8251057",,1.6315,0.2798,0.2395,,,
+PSO,Particle swarm optimization,"Khalilpour et al., Majlesi Conference on Electrical Engineering (2011)","Khanam and Parmar (2017), Table II",1.5234,1.3801,0.0159,,,tuned for a time-weighted squared error
+IWO,Invasive weed optimization,"Khalilpour et al., Majlesi Conference on Electrical Engineering (2011)","Khanam and Parmar (2017), Table II",1.5782,0.4372,0.0481,,,tuned for a time-weighted squared error
+KOA,Kookaburra optimization algorithm,"Saravanan et al., Scientific Reports 15 (2025) 20021, doi:10.1038/s41598-025-87607-2",,17.6949,5.1085,4.6981,,0.0028,
+RPOA,Red panda optimization algorithm,"Saravanan et al., Scientific Reports 15 (2025) 20021, doi:10.1038/s41598-025-87607-2",,18.3100,4.9058,4.0094,,0.0015,
+LFDNM,Levy flight distribution and Nelder-Mead,"Izci, Trans. Inst. Meas. Control 43 (2021) 3195-3211, doi:10.1177/01423312211019633","Saravanan et al. (2025), Table 1",19.5593,5.1566,3.4097,,,
+SCA-q,Sine cosine algorithm,earlier work,"Saravanan et al. (2025), Table 1",11.3163,0.5544,1.8072,,,gains quoted from earlier work
+MMPA,Improved marine predator algorithm,"Ramezani et al., Arab. J. Sci. Eng. 46 (2021) 8803-8826, doi:10.1007/s13369-021-05688-3","Rizk-Allah et al. (2024); Ekinci et al. (2025)",20.0,0.7448,1.7395,20,,gains as quoted in the secondary sources

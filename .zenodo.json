@@ -1,0 +1,8 @@
+{
+  "title": "A well-posed DC motor PID tuning benchmark: code and data",
+  "upload_type": "software",
+  "description": "Simulator, problem formulation, optimizers, published gain sets and scripts that reproduce the tables and figures of the article 'A well-posed formulation of the DC motor PID tuning benchmark: Saturation, robustness, and noise constraints change the ranking of controllers and optimizers'.",
+  "creators": [{"name": "Güngör, Mustafa", "orcid": "0000-0000-0000-0000"}],
+  "license": "MIT",
+  "keywords": ["PID tuning", "DC motor", "benchmark", "metaheuristic optimization", "robustness", "noise sensitivity"]
+}

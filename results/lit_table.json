@@ -1,0 +1,325 @@
+[
+ {
+  "label": "LHHO",
+  "method": "Leader-based Harris hawks optimization",
+  "source": "Ayinla et al., Franklin Open 6 (2024) 100058, doi:10.1016/j.fraope.2023.100058",
+  "quoted_in": "",
+  "K": [
+   19.99999,
+   5.437263,
+   3.359391
+  ],
+  "ITAE_ideal": 0.00042827283448238667,
+  "reported": 0.000401,
+  "Vpeak": 352.61350402332965,
+  "J_real": 0.03356209580914988,
+  "ratio": 6.5697247404670325,
+  "Ms": 1.3098899735814373,
+  "Mu": 341.3117320743727,
+  "at_bound": true
+ },
+ {
+  "label": "HHO-q",
+  "method": "Harris hawks optimization",
+  "source": "earlier work",
+  "quoted_in": "Ayinla et al. (2024), comparison table",
+  "K": [
+   19.9994,
+   5.4036,
+   3.3582
+  ],
+  "ITAE_ideal": 0.0004169011999371537,
+  "reported": 0.003993,
+  "Vpeak": 352.49498986495047,
+  "J_real": 0.033513965480390054,
+  "ratio": 6.560303308223399,
+  "Ms": 1.309816773481638,
+  "Mu": 341.1875991302633,
+  "at_bound": true
+ },
+ {
+  "label": "PSO-q",
+  "method": "Particle swarm optimization",
+  "source": "earlier work",
+  "quoted_in": "Ayinla et al. (2024), comparison table",
+  "K": [
+   19.6586,
+   4.8951,
+   3.2216
+  ],
+  "ITAE_ideal": 0.0005538877532287941,
+  "reported": 0.003265,
+  "Vpeak": 338.629386539703,
+  "J_real": 0.032248802684184286,
+  "ratio": 6.3126497835384034,
+  "Ms": 1.300642550410627,
+  "Mu": 326.8932090270276,
+  "at_bound": true
+ },
+ {
+  "label": "IGWO-q",
+  "method": "Improved grey wolf optimizer",
+  "source": "earlier work",
+  "quoted_in": "Ayinla et al. (2024), comparison table",
+  "K": [
+   19.66287869,
+   5.427335562,
+   3.184861028
+  ],
+  "ITAE_ideal": 0.0006124970650860464,
+  "reported": 0.003214,
+  "Vpeak": 334.9961964730611,
+  "J_real": 0.03246122558202957,
+  "ratio": 6.354231214428526,
+  "Ms": 1.2984749539488603,
+  "Mu": 323.23839298509233,
+  "at_bound": true
+ },
+ {
+  "label": "ASO-q",
+  "method": "Atom search optimization",
+  "source": "earlier work",
+  "quoted_in": "Ayinla et al. (2024), comparison table",
+  "K": [
+   18.74551157,
+   12.33363059,
+   13.83286123
+  ],
+  "ITAE_ideal": 0.004365220876154455,
+  "reported": 0.003422,
+  "Vpeak": 1388.3369657251383,
+  "J_real": 0.17034452602983177,
+  "ratio": 33.344659207969265,
+  "Ms": 1.9053598483806256,
+  "Mu": 2158.3100607069637,
+  "at_bound": false
+ },
+ {
+  "label": "BKA-ANN",
+  "method": "Black kite algorithm / neural network",
+  "source": "Arikusu, Biomimetics 11 (2026) 242, doi:10.3390/biomimetics11040242",
+  "quoted_in": "",
+  "K": [
+   24.9369,
+   2.9429,
+   4.9641
+  ],
+  "ITAE_ideal": 0.0018809430653436668,
+  "reported": null,
+  "Vpeak": 516.4322437949505,
+  "J_real": 0.040587206797592514,
+  "ratio": 7.944878596404595,
+  "Ms": 1.4177649115841222,
+  "Mu": 539.9279117642607,
+  "at_bound": false
+ },
+ {
+  "label": "ASO",
+  "method": "Atom search optimization",
+  "source": "Hekimoglu, IEEE Access 7 (2019) 38100-38114, doi:10.1109/ACCESS.2019.2905961",
+  "quoted_in": "",
+  "K": [
+   11.9437,
+   2.0521,
+   2.4358
+  ],
+  "ITAE_ideal": 0.003394389088943261,
+  "reported": null,
+  "Vpeak": 253.11222204168314,
+  "J_real": 0.04472658611662109,
+  "ratio": 8.755155251266707,
+  "Ms": 1.228091603121284,
+  "Mu": 243.92587276481365,
+  "at_bound": false
+ },
+ {
+  "label": "GWO",
+  "method": "Grey wolf optimizer",
+  "source": "Agarwal et al., Microsystem Technologies 24 (2018) 4997-5006, doi:10.1007/s00542-018-3920-4",
+  "quoted_in": "",
+  "K": [
+   6.8984,
+   0.5626,
+   0.9293
+  ],
+  "ITAE_ideal": 0.00708342272972121,
+  "reported": null,
+  "Vpeak": 98.90835725009902,
+  "J_real": 0.03380239518560497,
+  "ratio": 6.61676294593528,
+  "Ms": 1.1114902272806197,
+  "Mu": 95.4034727710223,
+  "at_bound": false
+ },
+ {
+  "label": "SCA",
+  "method": "Sine cosine algorithm",
+  "source": "Agarwal et al., Wulfenia Journal 24 (2017) 77-95",
+  "quoted_in": "",
+  "K": [
+   4.5012,
+   0.526,
+   0.5302
+  ],
+  "ITAE_ideal": 0.012149360477480912,
+  "reported": null,
+  "Vpeak": 56.9963021049505,
+  "J_real": 0.03931088450137272,
+  "ratio": 7.695040618050488,
+  "Ms": 1.074812205989625,
+  "Mu": 54.99671085581706,
+  "at_bound": false
+ },
+ {
+  "label": "SFS",
+  "method": "Stochastic fractal search",
+  "source": "Khanam and Parmar, Proc. IEEE UPCON (2017) 256-261, doi:10.1109/upcon.2017.8251057",
+  "quoted_in": "",
+  "K": [
+   1.6315,
+   0.2798,
+   0.2395
+  ],
+  "ITAE_ideal": 0.058968678202023,
+  "reported": null,
+  "Vpeak": 25.344399267128715,
+  "J_real": 0.14115392064914367,
+  "ratio": 27.63064648810705,
+  "Ms": 1.0335424551655321,
+  "Mu": 24.441165599360257,
+  "at_bound": false
+ },
+ {
+  "label": "PSO",
+  "method": "Particle swarm optimization",
+  "source": "Khalilpour et al., Majlesi Conference on Electrical Engineering (2011)",
+  "quoted_in": "Khanam and Parmar (2017), Table II",
+  "K": [
+   1.5234,
+   1.3801,
+   0.0159
+  ],
+  "ITAE_ideal": 0.11905047861007025,
+  "reported": null,
+  "Vpeak": 3.097795435742574,
+  "J_real": 0.17203470079858746,
+  "ratio": 33.675508123279855,
+  "Ms": 1.437353346625013,
+  "Mu": 3.0383757881402653,
+  "at_bound": false
+ },
+ {
+  "label": "IWO",
+  "method": "Invasive weed optimization",
+  "source": "Khalilpour et al., Majlesi Conference on Electrical Engineering (2011)",
+  "quoted_in": "Khanam and Parmar (2017), Table II",
+  "K": [
+   1.5782,
+   0.4372,
+   0.0481
+  ],
+  "ITAE_ideal": 0.06800052987209498,
+  "reported": null,
+  "Vpeak": 6.340619957623762,
+  "J_real": 0.1165778302443731,
+  "ratio": 22.81991744203365,
+  "Ms": 1.2462457907908513,
+  "Mu": 6.159371089174836,
+  "at_bound": false
+ },
+ {
+  "label": "KOA",
+  "method": "Kookaburra optimization algorithm",
+  "source": "Saravanan et al., Scientific Reports 15 (2025) 20021, doi:10.1038/s41598-025-87607-2",
+  "quoted_in": "",
+  "K": [
+   17.6949,
+   5.1085,
+   4.6981
+  ],
+  "ITAE_ideal": 0.0023700014399941787,
+  "reported": 0.0028,
+  "Vpeak": 482.8538266915841,
+  "J_real": 0.056721920870755164,
+  "ratio": 11.103222188222833,
+  "Ms": 1.3841802625403457,
+  "Mu": 493.8976681849726,
+  "at_bound": false
+ },
+ {
+  "label": "RPOA",
+  "method": "Red panda optimization algorithm",
+  "source": "Saravanan et al., Scientific Reports 15 (2025) 20021, doi:10.1038/s41598-025-87607-2",
+  "quoted_in": "",
+  "K": [
+   18.31,
+   4.9058,
+   4.0094
+  ],
+  "ITAE_ideal": 0.0015307684933396786,
+  "reported": 0.0015,
+  "Vpeak": 415.28078760970305,
+  "J_real": 0.04504725019231381,
+  "ratio": 8.817924713681599,
+  "Ms": 1.344255819039319,
+  "Mu": 410.96410992379174,
+  "at_bound": false
+ },
+ {
+  "label": "LFDNM",
+  "method": "Levy flight distribution and Nelder-Mead",
+  "source": "Izci, Trans. Inst. Meas. Control 43 (2021) 3195-3211, doi:10.1177/01423312211019633",
+  "quoted_in": "Saravanan et al. (2025), Table 1",
+  "K": [
+   19.5593,
+   5.1566,
+   3.4097
+  ],
+  "ITAE_ideal": 0.0005746379616978876,
+  "reported": null,
+  "Vpeak": 357.1538750659406,
+  "J_real": 0.03480272065450482,
+  "ratio": 6.812575001860553,
+  "Ms": 1.311602945030181,
+  "Mu": 346.06400668637747,
+  "at_bound": false
+ },
+ {
+  "label": "SCA-q",
+  "method": "Sine cosine algorithm",
+  "source": "earlier work",
+  "quoted_in": "Saravanan et al. (2025), Table 1",
+  "K": [
+   11.3163,
+   0.5544,
+   1.8072
+  ],
+  "ITAE_ideal": 0.004196963213857873,
+  "reported": null,
+  "Vpeak": 190.24704850930692,
+  "J_real": 0.03654647225660651,
+  "ratio": 7.153911493678604,
+  "Ms": 1.1859332174684047,
+  "Mu": 183.430972683,
+  "at_bound": false
+ },
+ {
+  "label": "MMPA",
+  "method": "Improved marine predator algorithm",
+  "source": "Ramezani et al., Arab. J. Sci. Eng. 46 (2021) 8803-8826, doi:10.1007/s13369-021-05688-3",
+  "quoted_in": "Rizk-Allah et al. (2024); Ekinci et al. (2025)",
+  "K": [
+   20.0,
+   0.7448,
+   1.7395
+  ],
+  "ITAE_ideal": 0.004215542473596592,
+  "reported": null,
+  "Vpeak": 192.22779725227724,
+  "J_real": 0.012266642943529329,
+  "ratio": 2.4011750662665565,
+  "Ms": 1.2208568321851032,
+  "Mu": 185.66715153774314,
+  "at_bound": true
+ }
+]

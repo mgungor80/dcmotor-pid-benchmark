@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.so
+*.dll
+*.dylib
+.pytest_cache/
+results/mc.txt
